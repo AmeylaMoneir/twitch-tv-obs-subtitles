@@ -27,9 +27,9 @@ div#article div.content h2 {
 }
 
 body {
-    font-family: "San Francisco",
-        "Helvetica Neue", "Helvetica",
-        Arial, Sans-Serif;
+    font-family: "sans serif",
+        "Rubik", "Rubik",
+        Rubik, Sans-Serif;
     padding: 0;
     margin: 0;
 }
